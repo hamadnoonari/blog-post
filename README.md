@@ -1,5 +1,5 @@
 # 📝 Simple Blog Post UI
-This is a clean and responsive blog post component built using HTML and CSS.
+This is a clean and responsive blog post component built using HTML5 and CSS3.
 
 It displays a featured image, a short description, and a “Read More” button in a structured and minimal layout.
 The goal of this project was to practice layout structuring, styling components, and creating reusable blog sections using pure CSS.
