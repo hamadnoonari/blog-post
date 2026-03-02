@@ -32,9 +32,9 @@ A clickable button that can link to a full blog post page.
 
 ## 🛠️ Built With
 
-- HTML5
+- HTML
 
-- CSS3
+- CSS
 
 No frameworks. No libraries. Just core web fundamentals.
 
